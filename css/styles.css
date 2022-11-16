@@ -205,6 +205,12 @@ footer {
     border: 2px solid black;
     width: 9.5rem;
 }
+#fondo-italia {
+    background-image: url("../img/restaurante/bandera-italia.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
 .main-contacto {
     display: grid;
