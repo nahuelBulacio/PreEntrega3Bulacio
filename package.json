@@ -1,7 +1,7 @@
 {
   "name": "preentrega3bulacio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Se creó una página web responsive, la cual trata de un restaurante italiano. En esta se puede observar los menues que hay, valorar la atención del mismo, contactarse con la empresa y conocer un poco sobre dicho lugar.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
